@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Navbar from './components/navbar.jsx';
+import Navbar from './components/Navbar.jsx';
 import Hero from './sections/Hero.jsx';
 import Overview from './sections/Overview.jsx';
 import Services from './sections/Services.jsx';
